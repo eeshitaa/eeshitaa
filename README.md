@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @eeshitaa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Wel Developemnt and ML and AI
+- 🌱 I’m currently learning Backend Web Development
+- 📫 How to reach me Linkedin:eeshita-deepta
+
+Contributes on:
+1. https://github.com/neha2503/IPADDRESSTRACKER/commits?author=eeshitaa
 
 <!---
 eeshitaa/eeshitaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
