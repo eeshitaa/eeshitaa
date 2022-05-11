@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eeshitaa
-- 👀 I’m interested in Wel Developemnt and ML and AI
-- 🌱 I’m currently learning Backend Web Development
+- 👀 I’m interested in Web Developemnt and ML and AI
+- 🌱 I’m currently learning Backend Web Development and Deep Learning.
 - 📫 How to reach me Linkedin:eeshita-deepta
 
 Contributes on:
